@@ -1,16 +1,20 @@
 {
-    "name": "qimdb",
-    "version": "0.1.0",
-    "description": "query IMDb for a given movie",
-    "main": "qimdb.js",
-    "bin": {
-	      "qimdb": "qimdb.js"
-    },
-    "keywords": ["imdb", "movie", "film"],
-    "author": "Farhad Hassani farhad.hsni@gmail.com",
-    "license": "MIT",
-    "dependencies": {
-        "cli-table": "^0.3.1",
-        "colors": "^1.1.2"
-    }
+  "name": "qimdb",
+  "version": "0.2.0",
+  "description": "query IMDb for a given movie",
+  "main": "qimdb.js",
+  "bin": {
+    "qimdb": "qimdb.js"
+  },
+  "keywords": [
+    "imdb",
+    "movie",
+    "film"
+  ],
+  "author": "Farhad Hassani farhad.hsni@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "colors": "^1.1.2"
+  }
 }
