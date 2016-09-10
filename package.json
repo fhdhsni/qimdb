@@ -1,6 +1,6 @@
 {
   "name": "qimdb",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "query IMDb for a given movie",
   "main": "qimdb.js",
   "bin": {
