@@ -39,6 +39,8 @@
             );
             console.log(table.toString());
             console.log(`Poster URL:\n${imdb.Poster.green}\n`);
+            console.log("IMDb page:");
+            console.log("http://www.imdb.com/title/".green + imdb.imdbID.green);
             table = new Table({
               colWidths: [13, 90],
             });
