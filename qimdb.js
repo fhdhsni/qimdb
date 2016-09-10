@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 (() => {
   const search = require("./search.js");
   const movies = process.argv.slice(2);
