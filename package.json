@@ -1,0 +1,13 @@
+{
+  "name": "qimdb",
+  "version": "1.0.0",
+  "description": "query IMDb for a given movie",
+  "main": "qimdb",
+  "keywords": ["imdb", "movie", "film"],
+  "author": "Farhad Hassani farhad.hsni@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "colors": "^1.1.2"
+  }
+}
